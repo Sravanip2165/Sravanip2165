@@ -54,6 +54,4 @@ Developed a machine learning model for the classification of plant pulses across
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,50:A78BFA,100:FF6EC7&height=120&section=footer" width="100%"/>
 
-*✨ Made with love by Sravani ✨*
-
 </div>
